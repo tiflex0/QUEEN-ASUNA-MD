@@ -7,17 +7,17 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~fggwlQoZ#PylyF96Y4LOuh8E_rEvYwKNOJCCx_Rieov5MetSRtb0",
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~qlpjBYRL#IDuHyUHWmJFNPDHuMoMktZzwuNGYoBdciQ4ThhlNtEs",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY QUEEN-ASUNA-MD 🤍*",
 WELCOME: process.env.WELCOME || "true",
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/p1xybt.jpg",
-PREFIX: process.env.PREFIX || "+", 
+PREFIX: process.env.PREFIX || "•", 
 BOT_NAME: process.env.BOT_NAME || "QUEEN-ASUNA-MD",
 STICKER_NAME: process.env.STICKER_NAME || "𝘎𝘰𝘥 𝘠𝘶𝘫𝘪 ¹ˣᵖ❄️",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
